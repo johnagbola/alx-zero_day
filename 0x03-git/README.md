@@ -1,23 +1,11 @@
-commit a00c5d660d92c287074676988105cfac9f37dec8 (HEAD -> master, origin/master)                                                                          
-Author: YJScript <oluwatobiloba.agbola@gmail.com>                                                                                                        
-Date:   Tue Aug 30 11:36:59 2022 -0700                                                                                                                   
-                                                                                                                                                         
-    Hot fix                                                                                                                                              
-                                                                                                                                                         
-commit 74cfb9de092318239e855c90b21f28ed00189f98                                                                                                          
-Author: YJScript <oluwatobiloba.agbola@gmail.com>                                                                                                        
-Date:   Tue Aug 30 11:24:53 2022 -0700                                                                                                                   
-                                                                                                                                                         
-    Starting to code today, so cool                                                                                                                      
-                                                                                                                                                         
-commit d914494490936752e2ff485ed923e6dca107c911                                                                                                          
-Author: YJScript <oluwatobiloba.agbola@gmail.com>                                                                                                        
-Date:   Tue Aug 30 11:07:00 2022 -0700                                                                                                                   
-                                                                                                                                                         
-    modified README.md content                                                                                                                           
-                                                                                                                                                         
-commit f2edfa44a22a15a8bc4f879e9c09a8e7f7d92f8f                                                                                                          
-Author: YJScript <oluwatobiloba.agbola@gmail.com>                                                                                                        
-Date:   Tue Aug 30 11:00:13 2022 -0700                                                                                                                   
-                                                                                                                                                         
-    This is a README.md file                                                                                                                             
+remote: Enumerating objects: 7, done.                                                                                                                    
+remote: Counting objects: 100% (7/7), done.                                                                                                              
+remote: Compressing objects: 100% (4/4), done.                                                                                                           
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0                                                                                             
+Unpacking objects: 100% (4/4), 1.12 KiB | 1.12 MiB/s, done.                                                                                              
+From https://github.com/johnagbola/alx-zero_day                                                                                                          
+   a00c5d6..d78940a  master     -> origin/master                                                                                                         
+Updating a00c5d6..d78940a                                                                                                                                
+Fast-forward                                                                                                                                             
+ 0x03-git/README.md | 24 +++++++++++++++++++++++-                                                                                                        
+ 1 file changed, 23 insertions(+), 1 deletion(-)                                                                                                         
